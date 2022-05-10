@@ -45,7 +45,7 @@ const alumni = [
 ---
 **Bonus Question**
 
-2. Write a function named `alphabeticalOrder` that takes an array of objects and sorts the obkects by the name of the alumni in alphabetical order.
+2. Write a function named `alphabeticalOrder` that takes an array of objects and sorts the objects by the name of the alumni in alphabetical order.
     
     ```jsx
     alphabeticalOrder(alumni)//returns [
